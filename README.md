@@ -16,6 +16,10 @@ Fill All Inside the Config.json
 after Run The Main Code
 `python main.py`
 
+# Additional
+if U want To make Ur message doesn't Look Like spam
+u can Use this invisible message for discord `_ _`
+
 # Note
   Auto Chat Is Against Discord TOS So If anything happen
   to your account wasn't my fault So Please Think Before Using
